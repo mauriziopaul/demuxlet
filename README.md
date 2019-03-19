@@ -39,7 +39,7 @@ demuxlet uses a self-documentation utility. You can run each utility with -man o
 
 <pre>
 $ ./demuxlet          (for short usage)
-$ ./demuxlet -help    (for detailed usage)
+$ ./demuxlet --help    (for detailed usage)
 </pre>
 
 The detailed usage is also pasted below.
